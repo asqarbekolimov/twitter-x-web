@@ -1,4 +1,3 @@
-import { EmailConfig } from "./../node_modules/next-auth/providers/email.d";
 import mongoose from "mongoose";
 
 const UserSchema = new mongoose.Schema(
